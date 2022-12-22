@@ -17,5 +17,13 @@ The third and fourth result showed us which days people were most active on base
 The fifth result showed us the amount of bike trips taken by gender for each day of the week by each Usertype. One discovery I made was that Customers that didn't identify with a gender were most active on Saturdays while subscribers were most likely to be men who were active on Thursdays. 
 ![8FBFAE9F-B921-405D-9164-1409D2D31AA0](https://user-images.githubusercontent.com/112785655/209228424-2330c32f-7aed-4bb6-935a-5ee2639b51b8.jpeg)
 
-The sixth result showed us how much each bike had been used and which ones were most likley to need maintenance. 
+The sixth result showed us how much each bike had been used and which ones were most likley to need maintenance.
+This helps us be proactive in preventing people from using bikes that are not prepared for usage. This also has the potential to prevent injuries and other things that can hurt the brand. 
 ![C5CE63B8-7181-4736-B06E-01D183C9E1DE](https://user-images.githubusercontent.com/112785655/209228737-76f3fd75-e7ed-44dd-8d50-8912f9fbf7cd.jpeg)
+
+The seventh result was used to show the most popular start locations predicated on gender. We used size to make the visualization easier to read. 
+Since we have this information we can make our services more appealing to each gender by having bikes available at the location where they are most likely to start riding. 
+![187202D1-8D7E-4A5F-8364-61D01D080AD5](https://user-images.githubusercontent.com/112785655/209229644-8e1d510e-e873-4b04-95cc-d1804f99de30.jpeg)
+
+### Summary
+We can conclude that people were most likely to ride the bikes for around 5 minutes. Secondly we can conclude that men and women ride bikes for similar amounnts of time when they use the service. Third and fourthly we can conclude that both gender are most active around 8am and 6pm on thursdays. We can also conclude that the buisness gets most of its transactions from male Subscribers. My first recomendation would be to add a chart that tells us which bikes were used the most for maintenance purposes. My secoond recommendation was to add a chart that would highlight starting locations based on gender for making units more accesssible to all genders. 
