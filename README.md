@@ -1,5 +1,6 @@
 # bikesharing
-### The purpose of this analysis was to convince investors that a bike-sharing program in Des Moines is a solid business proposal. In order to do that
+### Overview 
+The purpose of this analysis was to convince investors that a bike-sharing program in Des Moines is a solid business proposal. In order to do that
 we needed to create a few data visualizations that would display how frequent peoples engage with the services. With the Visualizations created we can effectively show investors what they need to know in order to decide whether or not they want to invest into the company. The visualizations that we created show when people are most active and how long their trips are. The visualizatios also show the differences in activiy between genders. This gives the investors as well as the business great insight so we can plan and act accordingly. Potentially this could mean knowing when to deploy maintainence operations or knowing what audiences we need to market our services to more. The information we can extract from the visualizations are beneficial to both parties in this case.
 
 ### Results
