@@ -33,3 +33,5 @@ We can conclude that people were most likely to ride the bikes for around 5 minu
 [link to first chart](https://public.tableau.com/app/profile/brenton.ervin/viz/checktimes/CheckoutTimesforUsers?publish=yes)
 
 [link to second chart](https://public.tableau.com/app/profile/brenton.ervin/viz/checktimesbygender/CheckoutTimesbyGender)
+
+[link to fourth chart](https://public.tableau.com/app/profile/brenton.ervin/viz/tripsbyweekdayhrgender/TripsbyweekdayhrGender)
