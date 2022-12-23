@@ -27,3 +27,5 @@ Since we have this information we can make our services more appealing to each g
 
 ### Summary
 We can conclude that people were most likely to ride the bikes for around 5 minutes. Secondly we can conclude that men and women ride bikes for similar amounnts of time when they use the service. Third and fourthly we can conclude that both gender are most active around 8am and 6pm on thursdays. We can also conclude that the buisness gets most of its transactions from male Subscribers. My first recomendation would be to add a chart that tells us which bikes were used the most for maintenance purposes. My secoond recommendation was to add a chart that would highlight starting locations based on gender for making units more accesssible to all genders. 
+
+[link to dashboard](https://public.tableau.com/app/profile/brenton.ervin/viz/Dashboard1_16717560803090/Dashboard1)
